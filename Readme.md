@@ -2,7 +2,7 @@
 
 This web app supports the following commands:
 
-1. curl http://localhost:8080/foo
+1. curl localhost:8080/foo
 * The response will be "bar"
 
 2. curl -H "Accept: application/json" -H "Content-Type: application/json" -X POST --data '{"name": "Prabh"}' localhost:8080/hello  
