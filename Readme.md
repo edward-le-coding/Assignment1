@@ -10,3 +10,9 @@ This web app supports the following commands:
 
 3. curl localhost:8080/kill
 * This will kill the server.
+
+The docker image can be created by running the following command:
+* docker build -t assignment1-edward-le .
+
+The docker image can be run by using the following command:
+* docker run -it -p 8080:8080 assignment1-edward-le
