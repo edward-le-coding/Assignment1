@@ -1,4 +1,4 @@
 Repository: https://github.com/edward-le-coding/COMP4016---Assignment1
 Image: edwardlecoding/comp4016-assignment1 (docker pull edwardlecoding/comp4016-assignment1:latest)
 Command: docker run -it -p 8080:8080 assignment1-edward-le
-Comment: All my commands expect localhost:8080 as the endpoint
+Comment: All my commands expect localhost:8080 as the endpoint (see GitHub for endpoint information)
